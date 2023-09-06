@@ -1,4 +1,4 @@
-<p align="center">![imagen de portada Github](Banner.png)</p>
+![imagen de portada Github](Banner.png)<p align="center"></p>
   
 <h2 align="center">Hola mundo. Soy Alexander ✨</h2>
 
