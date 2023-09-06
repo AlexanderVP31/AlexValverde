@@ -1,14 +1,11 @@
-<a>![imagen de portada Github](Change background.PNG)</a>
+![imagen de portada Github](Change background.PNG)
 
 <h2 align="center">Hola mundo. Soy Alexander ✨</h2>
 
 <p align="center">
- 
 <a href="https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejandrovera"/></a>
-
-  </p>
+</p>
 <br>
-
 <p align="center">
 
 🔥 Me destaco en varios campos profesionales. La programación, con más de 4 años de experiencia, me especializo en el diseño y desarrollo de sitios web dinámicos con tecnologías modernas como Angular, React, Three JS, Java, Spring Boot y .Net. También creo gráficos promocionales,juegos y animaciones. Lo que me distingue es mi capacidad para combinar la experiencia técnica con un buen ojo para el diseño, lo que da como resultado proyectos hermosos y funcionales.
