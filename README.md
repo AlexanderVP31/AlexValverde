@@ -1,5 +1,5 @@
-![imagen de portada Github](Banner.png)
-<p align="center">
+<p align="center">![imagen de portada Github](Banner.png)</p>
+  
 <h2 align="center">Hola mundo. Soy Alexander ✨</h2>
 
 <p align="center">
