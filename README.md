@@ -1,4 +1,4 @@
-![imagen de portada Github](Change background.PNG)
+![imagen de portada Github](Change background.png)
 
 <h2 align="center">Hola mundo. Soy Alexander ✨</h2>
 
