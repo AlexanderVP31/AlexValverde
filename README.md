@@ -1,6 +1,6 @@
 ![imagen de portada Github](Banner.png)<p align="center"></p>
   
-<h2 align="center">Hola mundo. Soy Alexander ✨</h2>
+<h2 align="center">Hola mundo 👋. Soy Alexander ✨</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-miguel-valverde-pireta-8a9421180/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejandrovera"/></a>
